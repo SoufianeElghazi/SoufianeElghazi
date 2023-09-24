@@ -7,7 +7,7 @@
 
 
 <div align="center">
-    <img src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
+    <img src="https://media.licdn.com/dms/image/D4D16AQFb3vFG0NsqSQ/profile-displaybackgroundimage-shrink_350_1400/0/1695502514403?e=1701302400&v=beta&t=AK7v8XGoPLlEgEsH2hIzmTBvbDNjBRO0XFEz68tGXh0">
 </div>
 
 ---
