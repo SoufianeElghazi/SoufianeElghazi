@@ -60,8 +60,6 @@
 
 ## Tools I Use
 
-## Tools I Use
-
 <div align="center">
     <img src="https://i.imgur.com/Rq9TURL.png" width="100" />
     <img src="https://www.svgrepo.com//show/376344/python.svg" width="100" />
