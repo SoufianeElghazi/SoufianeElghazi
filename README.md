@@ -6,7 +6,9 @@
 </div>
 
 
-[![Gif](https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif)
+<div align="center">
+    <img src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
+</div>
 
 ---
 
