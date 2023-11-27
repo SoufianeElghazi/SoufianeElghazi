@@ -79,7 +79,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png" width="100" />
     <img src="https://www.pngall.com/wp-content/uploads/5/Linux-Logo-PNG-Image-File.png" width="100" />
     <img src="https://www.freepnglogos.com/uploads/wordpress-logo-png/wordpress-logo-png-transparent-4.png" width="100" />
-    <img src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/TALL%20-%20Black%20on%20Transparent.png" width="100" />
+    <img src="https://static-00.iconduck.com/assets.00/kafka-icon-1024x467-9uf5gczp.png" width="100" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="100" />
     <img src="https://camo.githubusercontent.com/1eb1dd8ad7c480370514a5ff872e9f38cb4a94e6520852010d8d20fea8e2a65b/68747470733a2f2f692e696d6775722e636f6d2f48716c734b76312e706e67" width="100" />
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="100" />
