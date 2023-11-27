@@ -75,11 +75,11 @@
     <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" width="100" />
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="100" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1280px-Scala-full-color.svg.png" width="100" />
-    <img src="https://picx.zhimg.com/v2-3085ae6350bfb6f350466665da879630_720w.jpg?source=172ae18b" width="100" />
+    <img src="https://miro.medium.com/v2/resize:fit:816/0*ujD9drLEQp9gJ-LR.png" width="100" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png" width="100" />
-    <img src="https://pngimg.com/d/linux_PNG9.png" width="100" />
+    <img src="https://www.pngall.com/wp-content/uploads/5/Linux-Logo-PNG-Image-File.png" width="100" />
     <img src="https://www.freepnglogos.com/uploads/wordpress-logo-png/wordpress-logo-png-transparent-4.png" width="100" />
-    <img src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/WIDE%20-%20Black%20on%20Transparent.png" width="100" />
+    <img src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/TALL%20-%20Black%20on%20Transparent.png" width="100" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="100" />
     <img src="https://camo.githubusercontent.com/1eb1dd8ad7c480370514a5ff872e9f38cb4a94e6520852010d8d20fea8e2a65b/68747470733a2f2f692e696d6775722e636f6d2f48716c734b76312e706e67" width="100" />
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="100" />
