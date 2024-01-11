@@ -10,18 +10,23 @@ Hi! , I'm Elghazi SOufiane , Data Science and in Knowledge Engineering student .
     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width=400 alt="image1">
 </div>
 
+---
+
 # Let's Have a Chat! 💬
 <div align="center">
     <a href="https://www.linkedin.com/in/soufiane-el-ghazi/" target="_blank"><img src="https://cableriedaumesnilblog.com/wp-content/uploads/2022/10/linkedin-icon-logo-png-transparent.png" width="90" alt="LinkedIn"></a><span></span>
     <a href="https://fr.fiverr.com/el_soufiane" target="_blank"><img src="https://freelogopng.com/images/all_img/1656739257fiverr-logo-transparent.png" width="90" alt="Fiverr"></a>
 </div>
 
+---
 
 ## About Me
 
 - **Name**: Elghazi Soufiane
 - **Location**: Rabat, Morocco
 - **Current Position**: Data Science and Knowledge Engineering Student
+
+---
 
 ### Education
 
@@ -30,6 +35,8 @@ Hi! , I'm Elghazi SOufiane , Data Science and in Knowledge Engineering student .
 - Baccalauréat in Science Mathématique.
 
 **School**: School of Information Sciences-ESI-RABAT
+
+---
 
 ### Fields of Interests
 
@@ -45,6 +52,8 @@ Hi! , I'm Elghazi SOufiane , Data Science and in Knowledge Engineering student .
 - Big Data
 - Data Engineering
 
+---
+
 ### Technical Background
 
 - Proficient in Data Analysis and Machine Learning using Python.
@@ -58,6 +67,8 @@ Hi! , I'm Elghazi SOufiane , Data Science and in Knowledge Engineering student .
 - Hands-on experience with Power BI for data visualization.
 - Knowledgeable about Azure cloud services.
 - Capable of software development using Java, JavaScript, Flask, and WordPress.
+
+---
 
 ### Skills
 
@@ -121,12 +132,15 @@ Hi! , I'm Elghazi SOufiane , Data Science and in Knowledge Engineering student .
 - **Plotly**
 
 
+---
 
 ### Currently Learning
 
 - Generative IA
 - Terraform
 - Devops
+
+---
 
 ### Hobbies
 
