@@ -1,89 +1,3 @@
-<style>
-    .snowflake {
-	color: cyan;
-	font-size: 1em;
-	font-family: Arial;
-	text-shadow: 0 0 1px #000;
-  }
-  
-  @-webkit-keyframes snowflakes-fall{0%{top:-10%}100%{top:100%}}@-webkit-keyframes snowflakes-shake{0%{-webkit-transform:translateX(0px);transform:translateX(0px)}50%{-webkit-transform:translateX(80px);transform:translateX(80px)}100%{-webkit-transform:translateX(0px);transform:translateX(0px)}}@keyframes snowflakes-fall{0%{top:-10%}100%{top:100%}}@keyframes snowflakes-shake{0%{transform:translateX(0px)}50%{transform:translateX(80px)}100%{transform:translateX(0px)}}.snowflake{position:fixed;top:-10%;z-index:9999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:default;-webkit-animation-name:snowflakes-fall,snowflakes-shake;-webkit-animation-duration:10s,3s;-webkit-animation-timing-function:linear,ease-in-out;-webkit-animation-iteration-count:infinite,infinite;-webkit-animation-play-state:running,running;animation-name:snowflakes-fall,snowflakes-shake;animation-duration:10s,3s;animation-timing-function:linear,ease-in-out;animation-iteration-count:infinite,infinite;animation-play-state:running,running}.snowflake:nth-of-type(0){left:1%;-webkit-animation-delay:0s,0s;animation-delay:0s,0s}.snowflake:nth-of-type(1){left:10%;-webkit-animation-delay:1s,1s;animation-delay:1s,1s}.snowflake:nth-of-type(2){left:20%;-webkit-animation-delay:6s,.5s;animation-delay:6s,.5s}.snowflake:nth-of-type(3){left:30%;-webkit-animation-delay:4s,2s;animation-delay:4s,2s}.snowflake:nth-of-type(4){left:40%;-webkit-animation-delay:2s,2s;animation-delay:2s,2s}.snowflake:nth-of-type(5){left:50%;-webkit-animation-delay:8s,3s;animation-delay:8s,3s}.snowflake:nth-of-type(6){left:60%;-webkit-animation-delay:6s,2s;animation-delay:6s,2s}.snowflake:nth-of-type(7){left:70%;-webkit-animation-delay:2.5s,1s;animation-delay:2.5s,1s}.snowflake:nth-of-type(8){left:80%;-webkit-animation-delay:1s,0s;animation-delay:1s,0s}.snowflake:nth-of-type(9){left:90%;-webkit-animation-delay:3s,1.5s;animation-delay:3s,1.5s}
-
-.features {
-    display: flex;
-    flex-wrap: wrap;
-    margin: 0 0 2em 0;
-}
-
-.features article {
-    padding: 1.75em;
-    background-color: #262626;
-    border-radius: 5px;
-    margin: 1.5em 2em 1.5em 0;
-    width: calc(50% - 2em); /* Set the width to 50% for two articles in a row */
-}
-
-.features article:nth-child(2n) {
-    margin-right: 0;
-}
-
-.features article .image {
-    border-radius: 5px 5px 0 0;
-    display: block;
-    margin-bottom: 1.75em;
-    margin-left: -1.75em;
-    margin-top: -1.75em;
-    position: relative;
-    width: calc(100% + 3.5em);
-}
-
-.features article .image img {
-    border-radius: 5px 5px 0 0;
-    width: 100%;
-}
-
-.features article p.skill {
-    margin: 0; /* Remove default paragraph margins */
-}
-
-@media screen and (max-width: 736px) {
-    .features article {
-        padding: 1.5em;
-        margin: 0.875em 1em 0.875em 0;
-        width: calc(50% - 1.875em);
-    }
-
-    .features article .image {
-        margin-bottom: 1.5em;
-        margin-left: -1.5em;
-        margin-top: -1.5em;
-        width: calc(100% + 3em);
-    }
-}
-
-@media screen and (max-width: 480px) {
-    .features article {
-        width: 100%;
-        margin: 0 0 2em 0 !important;
-    }
-}
-
-</style>
-<div class="snowflake">❄</div>
-<div class="snowflake">❄</div>
-<div class="snowflake">❄</div>
-<div class="snowflake">❄</div>
-<div class="snowflake">❄</div>
-<div class="snowflake">❄</div>
-<div class="snowflake">❄</div>
-<div class="snowflake">❄</div>
-<div class="snowflake">❄</div> 
-<div class="snowflake">❄</div>
-<div class="snowflake">❄</div>
-<div class="snowflake">❄</div>
-<div class="snowflake">❄</div>
-<div class="snowflake">❄</div>
-
-
 <h1 style='color:#4c4893' align='center'>
     Welcom to my Github Account .
 </h1>
@@ -147,48 +61,65 @@ Hi! , I'm Elghazi SOufiane , Data Science and in Knowledge Engineering student .
 
 ### Skills
 
-<section class="features">
-    <article style="background-color: #DAE3F3; color: black;">
-        <span class="icon major style1"><i class="fab fa-python"></i></span>
-        <h3 class="major" style="color: black;">Languages of Programming</h3>
-        <p class="skill">Python, Scala, Pyspark, R, Java, SQL, C#, PLSQL, JS</p>
-    </article>
-    <article style="background-color: #FFFF00; color: black;">
-        <span class="icon major style2"><i class="fas fa-flask"></i></span>
-        <h3 class="major" style="color: black;">Data Science</h3>
-        <p class="skill">Machine Learning, LLM, Text Mining, Computer Vision, Time Series</p>
-    </article>
-    <article style="background-color: #8243FF; color: black;">
-        <span class="icon major style3"><i class="fas fa-database"></i></span>
-        <h3 class="major" style="color: black;">Data Engineering</h3>
-        <p class="skill">Kafka, Power BI, Docker, Snowflake, Talend, Airflow, Azure</p>
-    </article>
-    <article style="background-color: olive; color: black;">
-        <span class="icon major style4"><i class="fas fa-pencil-alt"></i></span>
-        <h3 class="major" style="color: black;">Design</h3>
-        <p class="skill">UML, Merise, Figma</p>
-    </article>
-    <article style="background-color: orangered; color: black;">
-        <span class="icon major style2"><i class="fas fa-tools"></i></span>
-        <h3 class="major" style="color: black;">Tools/Software</h3>
-        <p class="skill">Linux, RStudio, Denodo, SPSS, Jira</p>
-    </article>
-    <article style="background-color: #FFC000; color: black;">
-        <span class="icon major style3"><i class="fas fa-database"></i></span>
-        <h3 class="major" style="color: black;">Databases</h3>
-        <p class="skill">MySQL, Mongodb, Neo4j, Cassandra, Oracle</p>
-    </article>
-    <article style="background-color: #FFF2CC; color:black;">
-        <span class="icon major style2"><i class="fas fa-database"></i></span>
-        <h3 class="major" style="color: black;">Big Data</h3>
-        <p class="skill">Spark, Hadoop, Sqoop, Flume, Hive</p>
-    </article>
-    <article style="background-color: #4c4893; color:black;">
-        <span class="icon major style1"><i class="fas fa-chart-bar"></i></span>
-        <h3 class="major" style="color: black;">Visualization</h3>
-        <p class="skill">Tableau, Matplotlib, Seaborn, Plotly</p>
-    </article>
-</section>
+#### Languages of Programming
+- **Python**
+- **Scala**
+- **Pyspark**
+- **R**
+- **Java**
+- **SQL**
+- **C#**
+- **PLSQL**
+- **JS**
+
+#### Data Science
+- **Machine Learning**
+- **LLM**
+- **Text Mining**
+- **Computer Vision**
+- **Time Series**
+
+#### Data Engineering
+- **Kafka**
+- **Power BI**
+- **Docker**
+- **Snowflake**
+- **Talend**
+- **Airflow**
+- **Azure**
+
+#### Design
+- **UML**
+- **Merise**
+- **Figma**
+
+#### Tools/Software
+- **Linux**
+- **RStudio**
+- **Denodo**
+- **SPSS**
+- **Jira**
+
+#### Databases
+- **MySQL**
+- **Mongodb**
+- **Neo4j**
+- **Cassandra**
+- **Oracle**
+
+#### Big Data
+- **Spark**
+- **Hadoop**
+- **Sqoop**
+- **Flume**
+- **Hive**
+
+#### Visualization
+- **Tableau**
+- **Matplotlib**
+- **Seaborn**
+- **Plotly**
+
 
 
 ### Currently Learning
