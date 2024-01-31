@@ -137,9 +137,8 @@ Hi! , I'm Elghazi SOufiane , Data Science and in Knowledge Engineering student .
 ### Currently Learning
 
 - Generative IA
-- Terraform
-- Devops
-
+- Flutter && Dart
+  
 ---
 
 ### Hobbies
@@ -176,6 +175,8 @@ Hi! , I'm Elghazi SOufiane , Data Science and in Knowledge Engineering student .
     <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" width="80" alt="">
     <img src="https://www.denodo.com/sites/all/themes/denodo_2018/images_2018/logo@2x.png" width="120" alt="">
     <img src="https://global-uploads.webflow.com/5f8b0a1abe69652278dad51c/635fe3d0b4d34d6e73849add_440cd111.png" width="120" alt="">   
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="150" alt=""> 
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width="65" alt="">  
 </div>
 
 <div style="background-color:#4c4893; color:white; font-size:15px; font-family:Comic Sans MS; padding:10px; border: 5px solid black;font-weight:bold;border-radius: 20px;text-align:center"> ✨ THE END ✨</div><br>
