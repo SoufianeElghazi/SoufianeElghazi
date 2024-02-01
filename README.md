@@ -4,7 +4,7 @@
 
 
 <div style="background-color:white; color:black; font-size:15px; font-family:Comic Sans MS; padding:10px; border: 5px solid black;font-weight:bold;border-radius: 20px;">
-Hi! , I'm Elghazi SOufiane , Data Science and in Knowledge Engineering student .
+Hi! , I'm Elghazi Soufiane , Data Science and in Knowledge Engineering student .
 </div><br>
 <div style="text-align:center;">
     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width=400 alt="image1">
