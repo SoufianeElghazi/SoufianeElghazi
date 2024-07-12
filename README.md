@@ -167,6 +167,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="150" alt=""> 
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width="65" alt="">  
     <img src="https://i0.wp.com/ronekins.com/wp-content/uploads/2020/05/1f8gp7v2ouwvz_sdwvfevia.png?fit=1200%2C1040" width="85" alt="">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/django-community-logo-png-transparent.png" width="85" alt="">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1632979765809/HTEigfQR-.png?auto=compress,format&format=webp" width="200" alt="">
 </div><br><br>
 
 ## Feel free to connect with me
