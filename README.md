@@ -1,17 +1,3 @@
-<h1 style='color:#4c4893' align='center'>
-    Welcom to my Github Account .
-</h1>
-
-
-<div style="background-color:white; color:black; font-size:15px; font-family:Comic Sans MS; padding:10px; border: 5px solid black;font-weight:bold;border-radius: 20px;">
-Hi! , I'm Elghazi Soufiane , Data Science and in Knowledge Engineering student .
-</div><br>
-<div style="text-align:center;">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width=400 alt="image1">
-</div>
-
----
-
 <h1 align="center"> Hello there! I'm Elghazi Soufiane.</h1>
 
 <h3 align="center">🚩A Data Engineering , Data Science Engineer, ...🚩</h3>
