@@ -12,29 +12,44 @@ Hi! , I'm Elghazi Soufiane , Data Science and in Knowledge Engineering student .
 
 ---
 
-# Let's Have a Chat! 💬
-<div align="center">
-    <a href="https://www.linkedin.com/in/soufiane-el-ghazi/" target="_blank"><img src="https://cableriedaumesnilblog.com/wp-content/uploads/2022/10/linkedin-icon-logo-png-transparent.png" width="90" alt="LinkedIn"></a><span></span>
-    <a href="https://fr.fiverr.com/el_soufiane" target="_blank"><img src="https://freelogopng.com/images/all_img/1656739257fiverr-logo-transparent.png" width="90" alt="Fiverr"></a>
-</div>
+<h1 align="center"> Hello there! I'm Elghazi Soufiane.</h1>
 
----
+<h3 align="center">🚩A Data Engineering , Data Science Engineer, ...🚩</h3>
+
+<h4 align="center"> I am a senior at ESI (École de Science de l'Information) in Rabat, Morocco, currently seeking opportunities in Data Science and AI/ML.<h4>
+
+
+<p align="center"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" border="0"></p>
+
+
+### 🏴‍☠️ Hope you like my Portfolio 🏴‍☠️ : 
+[My Portfolio](https://soufianeelghazi.github.io/elghazisoufiane.github.io/)
+
+
+## By the way here are some of my statistics 🚀
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soufianeelghazi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="https://github.com/SoufianeElghazi" border="0">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soufianeelghazi&show_icons=true&theme=dracula" alt="228e2fc6817fc97762059df978485effd9d16dca-hq" border="0">
+</p>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------ -->
 
 ## About Me
 
 - **Name**: Elghazi Soufiane
 - **Location**: Rabat, Morocco
-- **Current Position**: Data Science and Knowledge Engineering Student
+- **Current Position**: Junior Data Science and Knowledge Engineering Engineer
 
 ---
 
 ### Education
 
-- Studying for a Degree in Knowledge Engineering and Data Science.
+- Degree in Knowledge Engineering and Data Science.
 - Preparation classes for the Grandes Ecoles.
 - Baccalauréat in Science Mathématique.
-
-**School**: School of Information Sciences-ESI-RABAT
 
 ---
 
@@ -61,12 +76,12 @@ Hi! , I'm Elghazi Soufiane , Data Science and in Knowledge Engineering student .
 - Skilled in Image Processing and Computer Vision.
 - Familiarity with the Hadoop ecosystem, including MapReduce, HDFS, Hive, Sqoop, and Flume.
 - Solid understanding and hands-on experience with Apache Spark for large-scale data processing. 
-- Experience in data integration and ETL processes with Talend.
+- Experience in data integration and ETL processes with Talend and Airflow.
 - Familiarity with Apache Kafka for real-time data streaming and event-driven architectures.
 - Proficient in both SQL and NoSQL databases.
 - Hands-on experience with Power BI for data visualization.
 - Knowledgeable about Azure cloud services.
-- Capable of software development using Java, JavaScript, Flask, and WordPress.
+- Capable of software development using Java, JavaScript, Flask, Django and WordPress.
 
 ---
 
@@ -74,14 +89,8 @@ Hi! , I'm Elghazi Soufiane , Data Science and in Knowledge Engineering student .
 
 #### Languages of Programming
 - **Python**
-- **Scala**
-- **Pyspark**
-- **R**
 - **Java**
 - **SQL**
-- **C#**
-- **PLSQL**
-- **JS**
 
 #### Data Science
 - **Machine Learning**
@@ -92,8 +101,6 @@ Hi! , I'm Elghazi Soufiane , Data Science and in Knowledge Engineering student .
 
 #### Data Engineering
 - **Kafka**
-- **Power BI**
-- **Docker**
 - **Snowflake**
 - **Talend**
 - **Airflow**
@@ -101,32 +108,29 @@ Hi! , I'm Elghazi Soufiane , Data Science and in Knowledge Engineering student .
 
 #### Design
 - **UML**
-- **Merise**
 - **Figma**
 
 #### Tools/Software
 - **Linux**
-- **RStudio**
-- **Denodo**
-- **SPSS**
+- **Docker**
+- **Git**
+- **Kubernetes**
 - **Jira**
 
 #### Databases
-- **MySQL**
+- **PostgreSQL**
 - **Mongodb**
 - **Neo4j**
 - **Cassandra**
-- **Oracle**
+- **Hbase**
 
 #### Big Data
 - **Spark**
-- **Hadoop**
-- **Sqoop**
-- **Flume**
+- **Hadoop ecosysteme**
 - **Hive**
 
 #### Visualization
-- **Tableau**
+- **Power Bi**
 - **Matplotlib**
 - **Seaborn**
 - **Plotly**
@@ -136,8 +140,7 @@ Hi! , I'm Elghazi Soufiane , Data Science and in Knowledge Engineering student .
 
 ### Currently Learning
 
-- Generative IA
-- Flutter && Dart
+- **Cloud Computing / Microsoft Azure**
   
 ---
 
@@ -166,17 +169,22 @@ Hi! , I'm Elghazi Soufiane , Data Science and in Knowledge Engineering student .
     <img src="https://www.freepnglogos.com/uploads/wordpress-logo-png/wordpress-logo-png-transparent-4.png" width="100" />
     <img src="https://static-00.iconduck.com/assets.00/kafka-icon-1024x467-9uf5gczp.png" width="100" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="100" />
-    <img src="https://camo.githubusercontent.com/1eb1dd8ad7c480370514a5ff872e9f38cb4a94e6520852010d8d20fea8e2a65b/68747470733a2f2f692e696d6775722e636f6d2f48716c734b76312e706e67" width="100" />
+    <img src="https://www.pngall.com/wp-content/uploads/15/Azure-Logo-PNG-Images.png" width="120" />
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="100" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/640px-Jupyter_logo.svg.png" width="50" />
     <img src="https://www.pngall.com/wp-content/uploads/2017/05/Copyright-Symbol-R-Free-Download-PNG.png" width="50" />
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/talend_logo_icon_170648.png" width="150" alt="">
     <img src="https://curryncode.files.wordpress.com/2020/08/1200px-cassandra_logo.svg_-e1598198416813.png" width="100" alt="">
     <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" width="80" alt="">
-    <img src="https://www.denodo.com/sites/all/themes/denodo_2018/images_2018/logo@2x.png" width="120" alt="">
+    <img src="https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/postgres/logo.png" width="100" alt="">
     <img src="https://global-uploads.webflow.com/5f8b0a1abe69652278dad51c/635fe3d0b4d34d6e73849add_440cd111.png" width="120" alt="">   
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="150" alt=""> 
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width="65" alt="">  
+    <img src="https://i0.wp.com/ronekins.com/wp-content/uploads/2020/05/1f8gp7v2ouwvz_sdwvfevia.png?fit=1200%2C1040" width="85" alt="">
 </div><br><br>
 
-<div style="background-color:#4c4893; color:white; font-size:15px; font-family:Comic Sans MS; padding:10px; border: 5px solid black;font-weight:bold;border-radius: 20px;text-align:center"> ✨ THE END ✨</div><br>
+## Feel free to connect with me
+<p align="center">
+  <a href="mailto:elghazisoufiane02@gmail.com?subject=Olá%20From%20github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/soufiane-el-ghazi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
