@@ -2,7 +2,7 @@
 
 <h3 align="center">🚩A Data Engineering , Data Science Engineer, ...🚩</h3>
 
-<h4 align="center"> I recently graduated from ESI (École de Science de l'Information) in Rabat, Morocco, and I am currently seeking opportunities in Data Science, AI/ML and Data Engineering.<h4>
+<h4 align="center"> I graduated with a degree in Data Science and Data Engineering from the School of Information Science (ESI) in Rabat,Morocco in 2024.<h4>
 
 
 <p align="center"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" border="0"></p>
