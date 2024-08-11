@@ -1,6 +1,6 @@
 <h1 align="center"> Hello there! I'm Elghazi Soufiane.</h1>
 
-<h3 align="center">🚩A Data Engineering , Data Science Engineer, ...🚩</h3>
+<h3 align="center">🚩A Data Engineer | Data Scientist 🚩</h3>
 
 <h4 align="center"> I graduated with a degree in Data Science and Data Engineering from the School of Information Science (ESI) in Rabat,Morocco in 2024.<h4>
 
