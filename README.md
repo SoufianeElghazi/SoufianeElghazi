@@ -5,42 +5,22 @@
 <h4 align="center"> I graduated with a degree in Data Science and Data Engineering from the School of Information Science (ESI) in Rabat,Morocco in 2024.<h4>
 
 
-<p align="center"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" border="0"></p>
+<p align="center"><img src="image.svg" border="0" width = 450px></p>
+
+# 💫 About Me:
+👨‍💻 I’m currently working on:<br>Enhancing OCR accuracy through advanced image processing techniques and building a dynamic Flutter application with stunning visuals.<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects related to Data Science, Machine Learning, and mobile app development with Flutter.<br><br>🛠️ I’m looking for help with:<br>Optimizing OCR pipelines and integrating AI-driven features into mobile applications.<br><br>🌱 I’m currently learning:<br>Microsoft Azure, along with deepening my knowledge in Graph Theory and Data Analysis.<br><br>💬 Ask me about:<br>Data Science, OCR techniques, and creating interactive, visually appealing mobile applications.<br><br>⚡ Fun fact:<br>I enjoy spending time in nature and learning about animals and their behaviors, which inspires me to invent creative solutions to complex problems.
 
 
-### 🏴‍☠️ Hope you like my Portfolio 🏴‍☠️ : 
-[My Portfolio](https://elghazisoufiane.vercel.app/)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/elghazi_soufiane/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soufiane-el-ghazi/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@elghazisoufiane02) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/el-soufiane/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/26351540/elghazi-soufiane) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/elghazisoufian5) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Elghazi.Soufiane)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://elghazisoufiane.vercel.app/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:elghazisoufiane02@gmail.com) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:soufiane.el-ghazi@esi.ac.ma) [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://fr.fiverr.com/el_soufiane) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Soufiane-EL/)
 
 
-## By the way here are some of my statistics 🚀
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soufianeelghazi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="https://github.com/SoufianeElghazi" border="0">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soufianeelghazi&show_icons=true&theme=dracula" alt="228e2fc6817fc97762059df978485effd9d16dca-hq" border="0">
-</p>
-
-<!-- ------------------------------------------------------------------------------------------------------------------------ -->
-
-## About Me
-
-- **Name**: Elghazi Soufiane
-- **Location**: Rabat, Morocco
-- **Current Position**: Junior Data Science and Knowledge Engineering Engineer
-
----
-
-### Education
-
+## 🎓 Education:
 - Degree in Knowledge Engineering and Data Science.
 - Preparation classes for the Grandes Ecoles.
 - Baccalauréat in Science Mathématique.
 
----
-
-### Fields of Interests
-
+## 🔍 Fields of Interests:
 - Conception and Object-Oriented Programming (Java & C#)
 - Business Intelligence
 - Machine Learning
@@ -53,126 +33,43 @@
 - Big Data
 - Data Engineering
 
----
-
-### Technical Background
-
+## 💻 Technical Background:
 - Proficient in Data Analysis and Machine Learning using Python.
 - Extensive experience in Natural Language Processing (NLP) tasks, employing RNN, LSTM, and BiLSTM architectures.
 - Skilled in Image Processing and Computer Vision.
 - Familiarity with the Hadoop ecosystem, including MapReduce, HDFS, Hive, Sqoop, and Flume.
-- Solid understanding and hands-on experience with Apache Spark for large-scale data processing. 
+- Solid understanding and hands-on experience with Apache Spark for large-scale data processing.
 - Experience in data integration and ETL processes with Talend and Airflow.
 - Familiarity with Apache Kafka for real-time data streaming and event-driven architectures.
 - Proficient in both SQL and NoSQL databases.
 - Hands-on experience with Power BI for data visualization.
 - Knowledgeable about Azure cloud services.
-- Capable of software development using Java, JavaScript, Flask, Django and WordPress.
-
----
-
-### Skills
-
-#### Languages of Programming
-- **Python**
-- **Java**
-- **SQL**
-
-#### Data Science
-- **Machine Learning**
-- **LLM**
-- **Text Mining**
-- **Computer Vision**
-- **Time Series**
-
-#### Data Engineering
-- **Kafka**
-- **Snowflake**
-- **Talend**
-- **Airflow**
-- **Azure**
-
-#### Design
-- **UML**
-- **Figma**
-
-#### Tools/Software
-- **Linux**
-- **Docker**
-- **Git**
-- **Kubernetes**
-- **Jira**
-
-#### Databases
-- **PostgreSQL**
-- **Mongodb**
-- **Neo4j**
-- **Cassandra**
-- **Hbase**
-
-#### Big Data
-- **Spark**
-- **Hadoop ecosysteme**
-- **Hive**
-
-#### Visualization
-- **Power Bi**
-- **Matplotlib**
-- **Seaborn**
-- **Plotly**
+- Capable of software development using Java, JavaScript, Flask, Django, and WordPress.
 
 
----
-
-### Currently Learning
-
-- **Cloud Computing / Microsoft Azure**
-  
----
-
-### Hobbies
-
+## 🎮 Hobbies:
 - Chess
 - Basketball
 - Coding
 
+
+
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white) ![Talend](https://img.shields.io/badge/talend-0DADD3?style=for-the-badge&logo=Talend&logoColor=white) ![Airflow](https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![VSCODE](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SoufianeElghazi&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SoufianeElghazi&theme=calm&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianeElghazi&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=calm)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SoufianeElghazi&limit=5&theme=calm&combine_all_yearly_contributions=true)
+
 ---
+[![](https://visitcount.itsvg.in/api?id=SoufianeElghazi&icon=2&color=6)](https://visitcount.itsvg.in)
 
-## Tools I Use
-
-<div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="55" />
-    <img src="https://www.svgrepo.com//show/376344/python.svg" width="100" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="70" />
-    <img src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-1024x532-p138xy0y.png" width="100" />
-    <img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" width="100" />
-    <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" width="100" />
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="100" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1280px-Scala-full-color.svg.png" width="100" />
-    <img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" width="100" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png" width="200" />
-    <img src="https://www.pngall.com/wp-content/uploads/5/Linux-Logo-PNG-Image-File.png" width="55" />
-    <img src="https://www.freepnglogos.com/uploads/wordpress-logo-png/wordpress-logo-png-transparent-4.png" width="100" />
-    <img src="https://static-00.iconduck.com/assets.00/kafka-icon-1024x467-9uf5gczp.png" width="100" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="100" />
-    <img src="https://www.pngall.com/wp-content/uploads/15/Azure-Logo-PNG-Images.png" width="120" />
-    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="100" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/640px-Jupyter_logo.svg.png" width="50" />
-    <img src="https://www.pngall.com/wp-content/uploads/2017/05/Copyright-Symbol-R-Free-Download-PNG.png" width="50" />
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/talend_logo_icon_170648.png" width="150" alt="">
-    <img src="https://curryncode.files.wordpress.com/2020/08/1200px-cassandra_logo.svg_-e1598198416813.png" width="100" alt="">
-    <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" width="80" alt="">
-    <img src="https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/postgres/logo.png" width="100" alt="">
-    <img src="https://global-uploads.webflow.com/5f8b0a1abe69652278dad51c/635fe3d0b4d34d6e73849add_440cd111.png" width="120" alt="">   
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="150" alt=""> 
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" width="65" alt="">  
-    <img src="https://i0.wp.com/ronekins.com/wp-content/uploads/2020/05/1f8gp7v2ouwvz_sdwvfevia.png?fit=1200%2C1040" width="85" alt="">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/django-community-logo-png-transparent.png" width="85" alt="">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1632979765809/HTEigfQR-.png?auto=compress,format&format=webp" width="200" alt="">
-</div><br><br>
-
-## Feel free to connect with me
-<p align="center">
-  <a href="mailto:elghazisoufiane02@gmail.com?subject=Olá%20From%20github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/soufiane-el-ghazi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@SoufianeELghazi254) 
