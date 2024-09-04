@@ -72,4 +72,5 @@
 [![](https://visitcount.itsvg.in/api?id=SoufianeElghazi&icon=2&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@SoufianeELghazi254) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SoufianeELghazi254) 
+  [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-F16061?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/soufiane02)
